@@ -8,3 +8,7 @@
 ![](https://imgur.com/SssMr3V.png)
 #### Search--- google sheet api
 ![](https://imgur.com/P9WRsJ1.png)
+#### Click--- Google Sheet API
+![](https://imgur.com/DpwSyLB.png)
+#### Click--- Enable button
+![](https://imgur.com/LLOFdzP.png)
