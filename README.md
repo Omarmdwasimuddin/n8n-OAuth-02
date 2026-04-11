@@ -21,5 +21,10 @@
 #### Click--- Enable button
 ![](https://imgur.com/N94awNV.png)
 
-#### Create Workflow
+#### Click--- Create Workflow
 ![](https://imgur.com/9h61ou5.png)
+#### Search--- google sheets
+![](https://imgur.com/kOSEJ6l.png)
+#### Click--- Create spreadsheet
+![](https://imgur.com/qTNY7kl.png)
+
