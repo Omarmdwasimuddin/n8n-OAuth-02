@@ -57,6 +57,8 @@
 ![](https://imgur.com/EsVAArN.png)
 #### scrol kore niche jaw--- Client secret copy koro.
 ![](https://imgur.com/VW0w2Q8.png)
+#### Paste koro- Client Secret
+![](https://imgur.com/oGfrD99.png)
 #### Go---Audience--> Publish App click koro
 ![](https://imgur.com/gNuLtCc.png)
 #### Click koro- Confirm
