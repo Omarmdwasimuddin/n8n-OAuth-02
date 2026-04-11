@@ -47,3 +47,5 @@
 ![](https://imgur.com/CAdIrBC.png)
 #### Copy koro--- OAuth Rediract URL
 ![](https://imgur.com/pFd18uV.png)
+#### Paste koro--- Authorized rediract URLs
+![](https://imgur.com/xMxfRsL.png)
