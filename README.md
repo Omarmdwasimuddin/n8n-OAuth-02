@@ -33,3 +33,7 @@
 ![](https://imgur.com/gB402yk.png)
 #### Give--- App Information
 ![](https://imgur.com/brYzXoD.png)
+#### Select koro- External, email daw, select koro continue daw & create button click koro.
+![](https://imgur.com/dvFrrb5.png)
+![](https://imgur.com/f64KbIE.png)
+![](https://imgur.com/1UnFUPZ.png)
