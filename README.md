@@ -37,3 +37,8 @@
 ![](https://imgur.com/dvFrrb5.png)
 ![](https://imgur.com/f64KbIE.png)
 ![](https://imgur.com/1UnFUPZ.png)
+
+#### Click--- Create OAuth client
+![](https://imgur.com/cXl7aJb.png)
+#### Application type---web application, name---ja ache ta rakhbo ba nijer moto kore dibo.
+![](https://imgur.com/m0UOAKD.png)
