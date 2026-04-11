@@ -31,3 +31,5 @@
 ![](https://imgur.com/N2En5qT.png)
 #### Click--- Get started button
 ![](https://imgur.com/gB402yk.png)
+#### Give--- App Information
+![](https://imgur.com/brYzXoD.png)
