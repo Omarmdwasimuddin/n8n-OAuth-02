@@ -45,3 +45,5 @@
 
 #### Click koro--- Set up credential
 ![](https://imgur.com/CAdIrBC.png)
+#### Copy koro--- OAuth Rediract URL
+![](https://imgur.com/pFd18uV.png)
