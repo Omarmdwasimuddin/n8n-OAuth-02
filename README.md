@@ -51,3 +51,5 @@
 ![](https://imgur.com/xMxfRsL.png)
 #### Copy koro--- Client ID
 ![](https://imgur.com/m3YFLI0.png)
+#### Paste koro--- Client ID
+![](https://imgur.com/TwmkGgo.png)
