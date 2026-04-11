@@ -49,3 +49,5 @@
 ![](https://imgur.com/pFd18uV.png)
 #### Paste koro--- Authorized rediract URLs  and Click koro--- Create button
 ![](https://imgur.com/xMxfRsL.png)
+#### Copy koro--- Client ID
+![](https://imgur.com/m3YFLI0.png)
