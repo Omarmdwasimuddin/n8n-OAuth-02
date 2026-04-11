@@ -53,3 +53,7 @@
 ![](https://imgur.com/m3YFLI0.png)
 #### Paste koro--- Client ID
 ![](https://imgur.com/TwmkGgo.png)
+#### Click koro--- Web client 1
+![](https://imgur.com/EsVAArN.png)
+#### scrol kore niche jaw--- Client secret copy koro.
+![](https://imgur.com/VW0w2Q8.png)
