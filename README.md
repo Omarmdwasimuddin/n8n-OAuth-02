@@ -72,3 +72,8 @@
 #### Select--- Select all and click continue button
 ![](https://imgur.com/86SDdLN.png)
 ![](https://imgur.com/nrTWJEe.png)
+#### Setup complete 
+![](https://imgur.com/0vkiiIb.png)
+#### Click---Execute workflow 
+![](https://imgur.com/uKCRh3o.png)
+#### Execute workflow running hole google e sheet 1 name e file create hobe. 
