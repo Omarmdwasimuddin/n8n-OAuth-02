@@ -67,3 +67,8 @@
 ![](https://imgur.com/oGfrD99.png)
 #### Click koro--- Advanced
 ![](https://imgur.com/4OMUVPs.png)
+#### Click koro--- Go to n8n (unsafe)
+![](https://imgur.com/1wYzK1l.png)
+#### Select--- Select all and click continue button
+![](https://imgur.com/86SDdLN.png)
+![](https://imgur.com/nrTWJEe.png)
