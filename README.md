@@ -42,3 +42,6 @@
 ![](https://imgur.com/cXl7aJb.png)
 #### Application type---web application, name---ja ache ta rakhbo ba nijer moto kore dibo.
 ![](https://imgur.com/m0UOAKD.png)
+
+#### Click koro--- Set up credential
+![](https://imgur.com/CAdIrBC.png)
