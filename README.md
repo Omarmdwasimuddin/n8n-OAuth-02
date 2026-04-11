@@ -63,3 +63,5 @@
 ![](https://imgur.com/gNuLtCc.png)
 #### Click koro- Confirm
 ![](https://imgur.com/k30TrvP.png)
+#### Click koro--- Sign in with Google button
+![](https://imgur.com/oGfrD99.png)
